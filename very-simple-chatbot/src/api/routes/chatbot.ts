@@ -19,7 +19,10 @@ export default (app: Router) => {
       }
       const message = req.query.message as string;
       const response = await ChatbotServiceInstance.CallOpenAPI(message);
-      return res.status(200).json({ message: response });
+      return res.status(200).json({
+        Human: message,
+        Ai: response,
+      });
     } catch (e) {
       console.log("🔥 error: %o", e);
       return next(e);
