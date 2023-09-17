@@ -1,5 +1,4 @@
 import { Service } from "typedi";
-// import OpenAI from "openai";
 import { OpenAI } from "langchain/llms/openai";
 import { ChatOpenAI } from "langchain/chat_models/openai";
 import { HumanMessage } from "langchain/schema";
