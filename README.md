@@ -18,7 +18,7 @@
 
 1. Clone the repository
 
-- run `git clone https://github.com/fredygerman/generative-ai-meetup.git`
+- run `git clone https://github.com/fredygerman/chatbot-nodejs-langchain.git`
 
 2. Go to the very-simple-chatbot folder
 
@@ -52,6 +52,9 @@
 ```
 
 # Note
+
+Inspired by A presentation by [@Kaleb](https://github.com/Kalebu)
+at the Generative AI Tanzania meetup, [ here is the code which was used in his presentation.](https://github.com/Generative-AI-Tanzania/Building-With-LLMs)
 
 I know it should be a very simple example but i mainly used a format of a project that i have been working on for a while. So this is ready for easy improvements and additions.
 
