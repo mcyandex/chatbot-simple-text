@@ -18,7 +18,7 @@
 
 1. Clone the repository
 
-- run `git clone https://github.com/fredygerman/chatbot-nodejs-langchain.git`
+- run `git clone https://github.com//mcyandex/chatbot-simple-text.git`
 
 2. Go to the very-simple-chatbot folder
 
